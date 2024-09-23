@@ -15,6 +15,7 @@ dependencies:
   - fiscalsim-us
   - cost-of-capital-calculator
   - taxcalc
+  - bokeh_sampledata
   - selenium
   - geopandas
   - openpyxl
