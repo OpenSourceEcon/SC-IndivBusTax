@@ -18,9 +18,8 @@ This repository contains the following items:
 * [`environment.yml`](environment.yml). Conda environment file for creating conda environment `sc_indivbustax-dev`.
 * [`/data/` directory](data/). This directory contains the data used in the analyses in the article.
     * [`/data/ReservesBalancesData.xlsx`](/data/ReservesBalancesData.xlsx). Rainy Day Fund and Total Reserves and Balances data for all 50 states and DC, Pew Charitable Trusts, Dec. 7, 2023. (Data downloaded from: https://www.pewtrusts.org/en/research-and-analysis/articles/2022/10/18/-/media/data-visualizations/interactives/2016/fiscal-50/docs/2013/reservesbalancesdata.xlsx?v=20231206)
-    <!-- * [`/data/Tab3.xlsx`](/data/Tab3.xlsx). Data and calculations for Table 3 in the paper.
     * [`/data/fig4_source.csv`](/data/fig4_source.csv). Source data for Figure 4 in the paper.
-    * [`/data/fig5_source.csv`](/data/fig5_source.csv). Source data for Figure 5 in the paper. -->
+    * [`/data/fig5_source.csv`](/data/fig5_source.csv). Source data for Figure 5 in the paper.
 * [`/images/` directory](images/). This folder contains the `.html` files for the dynamic visualizations in the paper and created in the notebook and the corresponding static `.png` image files.
     * [`/images/fig1_sc_raintotbal_tseries.html`](/images/fig1_sc_raintotbal_tseries.html). Dynamic data visualization Bokeh `.html` file. Figure 1. South Carolina Rainy Day fund and total reserves as a percentage of general fund expenditures: 2000-2023.
     * [`/images/fig1_sc_raintotbal_tseries.png`](/images/fig1_sc_raintotbal_tseries.png). Static `.png` file. Figure 1. South Carolina Rainy Day fund and total reserves as a percentage of general fund expenditures: 2000-2023.
