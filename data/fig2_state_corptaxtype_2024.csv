@@ -2,7 +2,7 @@ State,Abbrev,TaxType,TopRate,TaxType_str,TaxType_str_short,fill_color,label_colo
 Alabama,AL,1,6.50%,Flat state corporate income tax rate,Flat corp income tax rate,red,black
 Alaska,AK,3,9.40%,Progressive state corporate income tax rates,Progressive corp income tax rates,blue,white
 Arizona,AZ,1,4.90%,Flat state corporate income tax rate,Flat corp income tax rate,red,black
-Arkansas,AR,2,4.30,Nearly flat state corporate income tax rates,Nearly flat corp income tax rates,purple,black
+Arkansas,AR,2,4.30%,Nearly flat state corporate income tax rates,Nearly flat corp income tax rates,purple,black
 California,CA,1,8.84%,Flat state corporate income tax rate,Flat corp income tax rate,red,black
 Colorado,CO,1,4.40%,Flat state corporate income tax rate,Flat corp income tax rate,red,black
 Connecticut,CT,3,17.50%,Progressive state corporate income tax rates,Progressive corp income tax rates,blue,white
@@ -17,7 +17,7 @@ Indiana,IN,1,4.90%,Flat state corporate income tax rate,Flat corp income tax rat
 Iowa,IA,3,7.10%,Progressive state corporate income tax rates,Progressive corp income tax rates,blue,white
 Kansas,KS,2,6.50%,Nearly flat state corporate income tax rates,Nearly flat corp income tax rates,purple,black
 Kentucky,KY,1,5.00%,Flat state corporate income tax rate,Flat corp income tax rate,red,black
-Louisiana,LA,3,7.5%,Progressive state corporate income tax rates,Progressive corp income tax rates,blue,white
+Louisiana,LA,3,7.50%,Progressive state corporate income tax rates,Progressive corp income tax rates,blue,white
 Maine,ME,3,8.93%,Progressive state corporate income tax rates,Progressive corp income tax rates,blue,white
 Maryland,MD,1,8.25%,Flat state corporate income tax rate,Flat corp income tax rate,red,black
 Massachusetts,MA,1,8.00%,Flat state corporate income tax rate,Flat corp income tax rate,red,black
