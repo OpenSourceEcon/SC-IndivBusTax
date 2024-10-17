@@ -21,15 +21,33 @@ This repository contains the following items:
     * [`/data/fig1_state_taxtype_2024.csv`](/data/fig1_state_taxtype_2024.csv). Source data for Figure 1 in the paper.
     * [`/data/fig2_state_corptaxtype_2024.csv`](/data/fig2_state_corptaxtype_2024.csv). Source data for Figure 2 in the paper.
     * [`/data/fig4_source.csv`](/data/fig4_source.csv). Source data for Figure 4 in the paper.
-    * [`/data/fig3_source.csv`](/data/fig3_source.csv). Source data for Figure 3 in the paper.
-    * [`/data/fig4_source.csv`](/data/fig4_source.csv). Source data for Figure 4 in the paper.
+    * [`/data/fig9_source.csv`](/data/fig9_source.csv). Source data for Figure 9 in the paper.
+    * [`/data/fig10_source.csv`](/data/fig10_source.csv). Source data for Figure 10 in the paper.
+    * [`/data/NST-EST2023-ALLDATA.csv`](/data/NST-EST2023-ALLDATA.csv). US Census Bureau net domestic migration by state data for 2023.
     * [`/data/Pew_ReservesData.csv`](/data/Pew_ReservesData.csv). Rainy Day Fund and Total Reserves and Balances data for all 50 states and DC, Pew Charitable Trusts, Sep. 19, 2024, accessed Sep. 24, 2024 (Data downloaded from: https://www.pewtrusts.org/en/research-and-analysis/data-visualizations/2014/fiscal-50/reserves-and-balances)
+    * [`/data/tab3_netmigr_rank_2023.csv`](/data/tab3_netmigr_rank_2023.csv). Net migration data in Table 3.
+    * [`/data/tab3_netmigr_rank_full_2023.csv`](/data/tab3_netmigr_rank_full_2023.csv). Net migration data with all variables.
+    * [`/data/Tab13comp.xlsx`](/data/Tab13comp.xlsx). Worksheets for computing cost estimates in Table 13.
 * [`/images/` directory](images/). This folder contains the `.html` files for the dynamic visualizations in the paper and created in the notebook and the corresponding static `.png` image files.
     * [`/images/fig1_state_taxtype_2024.html`](/images/fig1_state_taxtype_2024.html). Dynamic data visualization Bokeh `.html` file. Figure 1. US State Employment Income Tax Systems as of July 2024.
     * [`/images/fig1_state_taxtype_2024.png`](/images/fig1_state_taxtype_2024.png). Static `.png` file. Figure 1. US State Employment Income Tax Systems as of July 2024.
     * [`/images/fig2_state_corptaxtype_2024.html`](/images/fig2_state_corptaxtype_2024.html). Dynamic data visualization Bokeh `.html` file. Figure 2. US State Corporate Income Tax Systems as of July 2024.
     * [`/images/fig2_state_corptaxtype_2024.png`](/images/fig2_state_corptaxtype_2024.png). Static `.png` file. Figure 2. US State Corporate Income Tax Systems as of July 2024.
-    * [`/images/fig3_sc_raintotbal_tseries.html`](/images/fig3_sc_raintotbal_tseries.html). Dynamic data visualization Bokeh `.html` file. Figure 3. South Carolina Rainy Day fund and total reserves as a percentage of general fund expenditures: 2000-2024.
-    * [`/images/fig3_sc_raintotbal_tseries.png`](/images/fig3_sc_raintotbal_tseries.png). Static `.png` file. Figure 3. South Carolina Rainy Day fund and total reserves as a percentage of general fund expenditures: 2000-2024.
-    * [`/images/fig4_rain_totbal_pct_2024.html`](/images/fig4_rain_totbal_pct_2024.html). Dynamic data visualization Bokeh `.html` file, for web publication. Figure 4. State 2024 Rainy day Fund Balances and Total Fund Balances as Percent of General Fund Expenditures.
-    * [`/images/fig4_rain_totbal_pct_2024.png`](/images/fig4_rain_totbal_pct_2024.png). Static `.png` file, for web publication. Figure 4. State 2024 Rainy day Fund Balances and Total Fund Balances as Percent of General Fund Expenditures.
+    * [`/images/fig3_net_domestic_migration_2023.html`](/images/fig3_net_domestic_migration_2023.html). Dynamic data visualization Bokeh `.html` file. Figure 3. 2023 net domestic migration as percent of 2022 population.
+    * [`/images/fig3_net_domestic_migration_2023.png`](/images/fig3_net_domestic_migration_2023.png). Static `.png` file. Figure 3. 2023 net domestic migration as percent of 2022 population.
+    * [`/images/fig4_sc_raintotbal_tseries.html`](/images/fig4_sc_raintotbal_tseries.html). Dynamic data visualization Bokeh `.html` file. Figure 4. South Carolina Rainy Day fund and total reserves as a percentage of general fund expenditures: 2000-2024.
+    * [`/images/fig4_sc_raintotbal_tseries.png`](/images/fig4_sc_raintotbal_tseries.png). Static `.png` file. Figure 4. South Carolina Rainy Day fund and total reserves as a percentage of general fund expenditures: 2000-2024.
+    * [`/images/fig5_rain_totbal_pct_2024.html`](/images/fig5_rain_totbal_pct_2024.html). Dynamic data visualization Bokeh `.html` file, for web publication. Figure 5. State 2024 Rainy day Fund Balances and Total Fund Balances as Percent of General Fund Expenditures.
+    * [`/images/fig5_rain_totbal_pct_2024.png`](/images/fig5_rain_totbal_pct_2024.png). Static `.png` file, for web publication. Figure 5. State 2024 Rainy day Fund Balances and Total Fund Balances as Percent of General Fund Expenditures.
+    * [`/images/fig6_CurrReformTaxRates.html`](/images/fig6_CurrReformTaxRates.html). Dynamic data visualization Bokeh `.html` file, for web publication. Figure 6.
+    * [`/images/fig6_CurrReformTaxRates.png`](/images/fig6_CurrReformTaxRates.png). Static `.png` file, for web publication. Figure 6.
+    * [`/images/fig7_CurrReformSC_StdDeduct_5.html`](/images/fig7_CurrReformSC_StdDeduct_5.html). Dynamic data visualization Bokeh `.html` file, for web publication. Figure 7.
+    * [`/images/fig7_CurrReformSC_StdDeduct_5.png`](/images/fig7_CurrReformSC_StdDeduct_5.png). Static `.png` file, for web publication. Figure 7.
+    * [`/images/fig8_CurrReformSC_StdDeduct_4.html`](/images/fig8_CurrReformSC_StdDeduct_4.html). Dynamic data visualization Bokeh `.html` file, for web publication. Figure 8.
+    * [`/images/fig8_CurrReformSC_StdDeduct_4.png`](/images/fig8_CurrReformSC_StdDeduct_4.png). Static `.png` file, for web publication. Figure 8.
+    * [`/images/fig9_NetStateTaxLiabChg_5.html`](/images/fig9_NetStateTaxLiabChg_5.html). Dynamic data visualization Bokeh `.html` file, for web publication. Figure 9.
+    * [`/images/fig9_NetStateTaxLiabChg_5.png`](/images/fig9_NetStateTaxLiabChg_5.png). Static `.png` file, for web publication. Figure 9.
+    * [`/images/fig10_NetStateTaxLiabChg_4.html`](/images/fig10_NetStateTaxLiabChg_4.html). Dynamic data visualization Bokeh `.html` file, for web publication. Figure 10.
+    * [`/images/fig10_NetStateTaxLiabChg_4.png`](/images/fig10_NetStateTaxLiabChg_4.png). Static `.png` file, for web publication. Figure 10.
+    * [`/images/fig12_HistSC2024revenue.html`](/images/fig12_HistSC2024revenue.html). Dynamic data visualization Bokeh `.html` file, for web publication. Figure 12.
+    * [`/images/fig12_HistSC2024revenue.png`](/images/fig12_HistSC2024revenue.png). Static `.png` file, for web publication. Figure 12.
