@@ -25,8 +25,8 @@ This repository contains the following items:
     * [`/data/fig10_source.csv`](/data/fig10_source.csv). Source data for Figure 10 in the paper.
     * [`/data/NST-EST2023-ALLDATA.csv`](/data/NST-EST2023-ALLDATA.csv). US Census Bureau net domestic migration by state data for 2023.
     * [`/data/Pew_ReservesData.csv`](/data/Pew_ReservesData.csv). Rainy Day Fund and Total Reserves and Balances data for all 50 states and DC, Pew Charitable Trusts, Sep. 19, 2024, accessed Sep. 24, 2024 (Data downloaded from: https://www.pewtrusts.org/en/research-and-analysis/data-visualizations/2014/fiscal-50/reserves-and-balances)
-    * [`/data/tab3_netmigr_rank_2023.csv`](/data/tab3_netmigr_rank_2023.csv). Net migration data in Table 3.
-    * [`/data/tab3_netmigr_rank_full_2023.csv`](/data/tab3_netmigr_rank_full_2023.csv). Net migration data with all variables.
+    * [`/data/tab5_netmigr_rank_2023.csv`](/data/tab5_netmigr_rank_2023.csv). Net migration data in Table 5.
+    * [`/data/tab5_netmigr_rank_full_2023.csv`](/data/tab5_netmigr_rank_full_2023.csv). Net migration data with all variables.
     * [`/data/Tab13comp.xlsx`](/data/Tab13comp.xlsx). Worksheets for computing cost estimates in Table 13.
 * [`/images/` directory](images/). This folder contains the `.html` files for the dynamic visualizations in the paper and created in the notebook and the corresponding static `.png` image files.
     * [`/images/fig1_state_taxtype_2024.html`](/images/fig1_state_taxtype_2024.html). Dynamic data visualization Bokeh `.html` file. Figure 1. US State Employment Income Tax Systems as of July 2024.
@@ -49,5 +49,5 @@ This repository contains the following items:
     * [`/images/fig9_NetStateTaxLiabChg_5.png`](/images/fig9_NetStateTaxLiabChg_5.png). Static `.png` file, for web publication. Figure 9.
     * [`/images/fig10_NetStateTaxLiabChg_4.html`](/images/fig10_NetStateTaxLiabChg_4.html). Dynamic data visualization Bokeh `.html` file, for web publication. Figure 10.
     * [`/images/fig10_NetStateTaxLiabChg_4.png`](/images/fig10_NetStateTaxLiabChg_4.png). Static `.png` file, for web publication. Figure 10.
-    * [`/images/fig12_HistSC2024revenue.html`](/images/fig12_HistSC2024revenue.html). Dynamic data visualization Bokeh `.html` file, for web publication. Figure 12.
-    * [`/images/fig12_HistSC2024revenue.png`](/images/fig12_HistSC2024revenue.png). Static `.png` file, for web publication. Figure 12.
+    * [`/images/fig11_HistSC2024revenue.html`](/images/fig11_HistSC2024revenue.html). Dynamic data visualization Bokeh `.html` file, for web publication. Figure 11.
+    * [`/images/fig11_HistSC2024revenue.png`](/images/fig11_HistSC2024revenue.png). Static `.png` file, for web publication. Figure 11.
